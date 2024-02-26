@@ -1,0 +1,18 @@
+
+# tilemaker
+build/
+resources/
+config.json
+process.lua
+
+# data
+zip/
+landcover/
+coastline/
+
+# osm
+*.pbf
+
+# output
+*.mbtiles
+*.pmtiles
